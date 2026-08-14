@@ -505,25 +505,6 @@ Breast histopathology datasets and related research commonly investigate binary 
 
 ---
 
-## 📖 Citation
-
-If this repository or the associated methodology contributes to your research, please cite the corresponding research publication.
-
-### BibTeX
-
-```bibtex
-@misc{imoshmika_breast_cancer_histopathology,
-  author       = {Imoshmika},
-  title        = {Advanced Deep Learning Approach for Breast Cancer Identification in Histopathology Images},
-  year         = {2026},
-  publisher    = {GitHub},
-  url          = {https://github.com/imoshmika/ADVANCED-DEEP-LEARNING-APPROACH-FOR-BREAST-CANCER-IDENTIFICATION-IN-HISTOPATHOLOGY-IMAGES-}
-}
-```
-
-> Replace the author field with the exact author list and add the DOI/publication details once the associated research paper is formally published.
-
----
 
 ## 🤝 Contributions
 
