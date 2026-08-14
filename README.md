@@ -291,44 +291,31 @@ Recommended metrics include:
 
 Measures the proportion of correctly classified samples.
 
-[
-Accuracy =
-\frac{TP + TN}{TP + TN + FP + FN}
-]
+Accuracy = (TP + TN) / (TP + TN + FP + FN)
 
 ### Precision
 
 Measures the proportion of predicted positive samples that are actually positive.
 
-Precision = {TP}/{TP + FP}
+Precision = TP / (TP + FP)
 
 ### Recall / Sensitivity
 
 Measures the proportion of actual positive samples correctly identified.
 
-[
-Recall =
-\frac{TP}{TP + FN}
-]
+Recall = TP / (TP + FN)
 
 ### Specificity
 
 Measures the proportion of actual negative samples correctly identified.
 
-[
-Specificity =
-\frac{TN}{TN + FP}
-]
+Specificity = TN / (TN + FP)
 
 ### F1-Score
 
 Provides a harmonic mean of precision and recall.
 
-[
-F1 =
-2\frac{Precision \times Recall}
-{Precision + Recall}
-]
+F1 = (2 * Precision * Recall) / (Precision + Recall)
 
 ### ROC-AUC
 
