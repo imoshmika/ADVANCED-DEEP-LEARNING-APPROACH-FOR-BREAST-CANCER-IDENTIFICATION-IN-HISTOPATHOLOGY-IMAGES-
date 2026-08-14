@@ -540,29 +540,6 @@ For substantial changes, a pull request with an explanation of the proposed modi
 
 ---
 
-## ⭐ Acknowledgements
-
-The authors acknowledge the researchers, institutions, dataset creators, and open-source communities whose resources and software contribute to research in medical image analysis and computational pathology.
-
----
-
-## 📜 License
-
-A license should be explicitly added to this repository before external reuse.
-
-If you intend to permit broad reuse of the source code, consider adding an appropriate open-source license such as MIT, Apache-2.0, or another license compatible with the associated research and datasets.
-
-**Important:** The code license does not automatically grant permission to redistribute or reuse third-party medical datasets.
-
----
-
-## 🔗 Repository
-
-**GitHub Repository:**
-
-https://github.com/imoshmika/ADVANCED-DEEP-LEARNING-APPROACH-FOR-BREAST-CANCER-IDENTIFICATION-IN-HISTOPATHOLOGY-IMAGES-
-
----
 
 ## 👨‍🔬 Research
 
