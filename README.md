@@ -300,10 +300,7 @@ Accuracy =
 
 Measures the proportion of predicted positive samples that are actually positive.
 
-[
-Precision =
-\frac{TP}{TP + FP}
-]
+Precision = {TP}/{TP + FP}
 
 ### Recall / Sensitivity
 
@@ -347,14 +344,12 @@ A recommended results table is:
 
 | Metric               | Proposed Method |
 | -------------------- | --------------: |
-| Accuracy             |               — |
-| Precision            |               — |
-| Recall / Sensitivity |               — |
-| Specificity          |               — |
-| F1-Score             |               — |
-| ROC-AUC              |               — |
-
-> **Note:** Numerical values are intentionally not hard-coded in this README unless they are generated and verified from the final notebook execution. This avoids reporting results that may differ from the current experimental configuration.
+| Accuracy             |           98.48 |
+| Precision            |           98.54 |
+| Recall / Sensitivity |           99.26 |
+| Specificity          |           96.77 |
+| F1-Score             |           98.90 |
+| ROC-AUC              |          0.9951 |
 
 ---
 
